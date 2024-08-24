@@ -1,0 +1,4 @@
+res/shaders/*.spv
+res/shaders/glslc
+.vscode/
+build/
