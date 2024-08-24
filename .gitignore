@@ -1,4 +1,5 @@
-res/shaders/*.spv
+res/shaders/*.frag
+res/shaders/*.vert
 res/shaders/glslc
 .vscode/
 build/
